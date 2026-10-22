@@ -1,5 +1,7 @@
 # ZOO HEROES
 
+[Gioca subito dal browser](https://giulio-o.github.io/zoo-heroes/)
+
 Demo educativa gratuita di carte e animali per bambini dai 6 anni, utilizzabile dal browser di smartphone, tablet e computer.
 
 ## Come giocare
@@ -19,4 +21,8 @@ I progressi sono salvati nel browser del dispositivo tramite localStorage. Non c
 
 GitHub Pages pubblica `index.html` dal ramo `main`, cartella `/` (root). Non sono necessari compilazione, dipendenze o installazioni.
 
-Il file `index.html` riprende la demo ZOO HEROES già sviluppata.
+Il file `index.html` riprende senza modifiche la demo ZOO HEROES già sviluppata.
+
+## Verifica smartphone
+
+La [pagina di collaudo](https://giulio-o.github.io/zoo-heroes/qa/mobile.html) apre il gioco con larghezze di 320, 360, 390 e 412 CSS pixel. Consente di controllare l’impaginazione e le interazioni nel browser; non simula hardware, sistema operativo o touch di un telefono reale.
